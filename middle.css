@@ -1,0 +1,157 @@
+.middle-section {
+  width: 600px;
+  background-color: white;
+  padding-top: 80px;
+  border: 1px solid rgb(40, 40, 40);
+  position: relative;
+  left: 300px;
+  background-color: black;
+}
+.header-middle-section {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  width: 597px;
+  background-color: black;
+  border-bottom: 1px solid rgb(40, 40, 40);
+  padding-top: 20px;
+  top: 0;
+  font-family: Roboto, Arial;
+}
+.for-you-section {
+  padding-left: 100px;
+  text-underline-position: below;
+  font-weight: 900;
+  color: white;
+}
+.following-section {
+  color: white;
+}
+.settings-section {
+  height: 40px;
+  width: 40px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.content-new-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 130px;
+}
+.profile-content {
+  display: flex;
+}
+.new-section-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+.gifs-content {
+  display: flex;
+  justify-content: space-between;
+}
+.media-section1,
+.gif-section1,
+.poll-section1,
+.emoji-section1,
+.schedule-section1,
+.location-section1 {
+  width: 20px;
+  margin-left: 25px;
+}
+.profile-picture-content1 {
+  height: 50px;
+  width: 50px;
+  padding: 8px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.input-type-content1 {
+  font-weight: 900;
+  font-size: 20px;
+  font-family: Roboto, Arial;
+  margin-top: 5px;
+  border: none;
+  padding: 5px 5px;
+  background-color: black;
+}
+.post-button-content {
+  border-radius: 40px;
+  border-width: 1px;
+  border-style: solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 30px;
+  background-color: rgb(50, 170, 218);
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+.post-button-content:hover {
+  background-color: rgb(55, 175, 220);
+  color: white;
+}
+.content-show-posts-section {
+  text-align: center;
+  color: rgb(50, 170, 218);
+  font-size: 18px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  height: 45px;
+  padding-top: 10px;
+  border-color: rgb(40, 40, 40);
+  font-family: Roboto, Arial;
+}
+.content-post-middle-section {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid rgb(40, 40, 40);
+  padding-right: 22px;
+}
+
+.jujutsu-image-container {
+  height: 50px;
+  width: 50px;
+  padding: 8px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.jujutsu-image-container1 {
+  height: 600px;
+  width: 500px;
+  border-radius: 20px;
+}
+.jujutsu-options-section {
+  font-weight: bold;
+  padding-left: 10px;
+  color: white;
+}
+.jujutsu-text-section {
+  display: flex;
+}
+.jujutsu-text-section2 {
+  font-family: Roboto, Arial;
+  color: rgb(143, 143, 143);
+}
+.jujutsu-text-section1 {
+  font-family: Roboto, Arial;
+  font-weight: 900;
+  color: white;
+}
+.image-content-section {
+  line-height: 25px;
+}
+.jujutsu-text-section3 {
+  font-family: Roboto, Arial;
+  margin-bottom: 8px;
+  color: white;
+}

@@ -1,0 +1,118 @@
+.left-section {
+  display: flex;
+  flex-direction: column;
+  margin-left: 90px;
+  background-color: black;
+  position: fixed;
+}
+.main-icon {
+  height: 50px;
+  width: 50px;
+  padding: 8px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.main-icon:hover {
+  background-color: lightgray;
+
+  border-radius: 50%;
+}
+.home-icon-edit,
+.search-icon-edit,
+.notification-icon-edit,
+.messages-icon-edit,
+.grok-icon-edit,
+.list-icon-edit,
+.more-icon-edit,
+.profile-icon1-edit,
+.profile-icon-edit {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  color: white;
+}
+.home-edit,
+.search-edit,
+.notification-edit1,
+.messages-edit2,
+.profile-edit3,
+.grok-edit4,
+.list-edit5,
+.more-edit6 {
+  margin-left: 15px;
+  font-family: Roboto, Arial;
+  border-width: 500;
+}
+.home-icon,
+.search-icon,
+.notification-edit,
+.messages-edit,
+.profile-edit,
+.grok-edit,
+.list-edit,
+.more-edit {
+  height: 30px;
+  width: 30px;
+}
+.profile-icon-edit {
+  position: fixed;
+  bottom: 0;
+  background-color: black;
+  left: 50px;
+}
+
+.home-icon-edit:hover,
+.search-icon-edit:hover,
+.notification-icon-edit:hover,
+.messages-icon-edit:hover,
+.grok-icon-edit:hover,
+.list-icon-edit:hover,
+.more-icon-edit:hover,
+.profile-icon1-edit:hover,
+.profile-icon-edit:hover {
+  background-color: lightgray;
+  border-radius: 40px;
+}
+.post-button {
+  height: 55px;
+  width: 175px;
+  margin-left: 5px;
+  margin-top: 10px;
+  border-radius: 30px;
+  background-color: rgb(50, 170, 218);
+  cursor: pointer;
+  font-family: Roboto, Arial;
+  border: none;
+  color: white;
+}
+.post-button:hover {
+  background-color: rgb(55, 175, 220);
+  color: white;
+}
+.profile-icon-edit {
+  display: flex;
+  column-gap: 10px;
+  margin-top: 50px;
+}
+.image-edit {
+  height: 50px;
+  width: 50px;
+  padding: 8px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.name-edit {
+  font-family: Roboto, Arial;
+}
+.name-edit1 {
+  font-weight: bold;
+}
+.name-edit2 {
+  font-size: 5px;
+  color: lightgray;
+}
+.options-edit {
+  font-weight: bold;
+}

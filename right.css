@@ -1,0 +1,295 @@
+.right-section {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin-right: 40px;
+  position: absolute;
+  right: 0;
+  background-color: black;
+}
+
+.search-bar {
+  margin-top: 15px;
+  margin-right: 40px;
+  height: 45px;
+  width: 350px;
+  border-radius: 30px;
+  font-size: 18px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+  padding-left: 10px;
+  background-color: lightgray;
+}
+.Subscribe-edit {
+  margin-top: 25px;
+  background-color: rgb(20, 20, 20);
+  margin-bottom: 30px;
+  margin-right: 40px;
+  padding-top: 15px;
+  padding-right: 25px;
+  padding-left: 25px;
+  padding-bottom: 15px;
+  border-radius: 30px;
+}
+.Subscribe-edit3:hover {
+  background-color: rgb(55, 175, 220);
+  color: white;
+}
+.Subscribe-edit1 {
+  font-weight: 900;
+  font-size: 20px;
+  font-family: Roboto, Arial;
+  margin-top: 5px;
+  color: white;
+}
+.Subscribe-edit2 {
+  margin-top: 15px;
+  color: white;
+}
+.Subscribe-edit3 {
+  margin-top: 15px;
+  height: 35px;
+  width: 85px;
+  border-radius: 30px;
+  background-color: rgb(50, 170, 218);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.whats-happening-section {
+  background-color: rgb(20, 20, 20);
+  margin-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  border-radius: 25px;
+}
+.happening-edit {
+  font-weight: 900;
+  font-size: 20px;
+  font-family: Roboto, Arial;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  padding-left: 35px;
+  color: white;
+}
+.paris-text-container {
+  margin-bottom: 35px;
+}
+.paris-text-bold-container {
+  font-weight: bold;
+  font-family: Roboto, Arial;
+  color: white;
+}
+.paris-text-normal-container {
+  font-size: 12px;
+  font-family: Roboto, Arial;
+  color: rgb(143, 143, 143);
+  margin-top: 5px;
+  color: white;
+}
+.television-trending-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3px;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.television-trending-section:hover {
+  background-color: lightgray;
+}
+.celebrity-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3px;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.celebrity-section:hover {
+  background-color: lightgray;
+}
+.internship-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.internship-section:hover {
+  background-color: lightgray;
+}
+.paris-text-container,
+.television-text-section,
+.clebrity-text-section,
+.internship-text-section {
+  margin-bottom: 25px;
+}
+.paris-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3px;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.paris-section:hover {
+  background-color: lightgray;
+}
+.paris-image-container {
+  height: 70px;
+  width: 70px;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+.television-small-section {
+  font-size: 12px;
+  font-family: Roboto, Arial;
+  color: rgb(143, 143, 143);
+  margin-bottom: 5px;
+  color: white;
+}
+.television-bold-section {
+  font-weight: bold;
+  font-family: Roboto, Arial;
+  margin-bottom: 5px;
+  color: white;
+}
+.television-hard-section {
+  font-size: 12px;
+  font-family: Roboto, Arial;
+  color: rgb(143, 143, 143);
+  color: white;
+}
+.celebrity-small-section {
+  font-size: 12px;
+  font-family: Roboto, Arial;
+  color: rgb(143, 143, 143);
+  margin-bottom: 5px;
+  color: white;
+}
+.celebrity-bold-section {
+  font-weight: bold;
+  font-family: Roboto, Arial;
+  color: white;
+}
+.internship-small-section {
+  font-size: 12px;
+  font-family: Roboto, Arial;
+  color: rgb(143, 143, 143);
+  margin-bottom: 5px;
+  color: white;
+}
+.internship-bold-section {
+  font-weight: bold;
+  font-family: Roboto, Arial;
+  color: white;
+}
+.options-television-edit,
+.options-celebrity-edit,
+.options-internship-edit {
+  font-weight: bold;
+  color: white;
+}
+.show-edit {
+  color: rgb(50, 170, 218);
+  font-family: Roboto, Arial;
+  padding: 5px 35px;
+}
+.show-edit:hover {
+  background-color: lightblue;
+  border-radius: 25px;
+}
+.who-to-follow {
+  background-color: rgb(20, 20, 20);
+  margin-right: 40px;
+  margin-top: 30px;
+  border-radius: 25px;
+}
+.who-to-follow-edit {
+  font-weight: 900;
+  font-size: 20px;
+  font-family: Roboto, Arial;
+  margin-top: 10px;
+  margin-bottom: 3px;
+  padding: 10px 20px;
+  color: white;
+}
+.channel-follow-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  column-gap: 45px;
+}
+.channel-section1,
+.channel-section2,
+.channel-section3 {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px;
+  margin-bottom: 1px;
+}
+
+.channel-header-section,
+.demon-slayer-edit,
+.viz-section {
+  font-weight: bold;
+  font-family: Roboto, Arial;
+  margin-bottom: 3px;
+  color: white;
+}
+.channel-normal-section,
+.demon-slayer-section,
+.viz-section-edit {
+  color: rgb(73, 73, 73);
+}
+.channel-profile-section1,
+.channel-image-section2,
+.channel-image-section3 {
+  height: 50px;
+  width: 50px;
+  border-radius: 8px;
+}
+.channel-section1:hover,
+.channel-section2:hover,
+.channel-section3:hover {
+  background-color: lightgray;
+}
+.channel-follow-edit-section1,
+.demon-slayer-follow-section2,
+.viz-follow-section3 {
+  border-radius: 40px;
+  border-width: 1px;
+  border-style: solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 30px;
+  background-color: white;
+  color: black;
+  border: none;
+  cursor: pointer;
+}
+.channel-show-section {
+  margin-top: 3px;
+  padding: 20px 25px;
+  color: rgb(50, 170, 218);
+  font-family: Roboto, Arial;
+}
+.channel-show-section:hover {
+  background-color: lightblue;
+  border-radius: 25px;
+}
+.viz-section {
+  cursor: pointer;
+}
+.viz-section:hover {
+  text-decoration: underline;
+}
